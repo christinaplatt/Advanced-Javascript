@@ -1,0 +1,22 @@
+#main {
+
+}
+img {
+	height: 100%;
+	width: 100%;
+	position: absolute;
+	top: 0;
+	left: 0;
+}
+#modal {
+	background-image: url("images/beer.01.jpeg");
+	background-size: cover;
+	border: 10px solid brown;
+	height: 800px;
+	width: 800px;
+	text-align: center;
+	display: none;
+}
+p {
+	/*display: none;*/
+}
